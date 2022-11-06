@@ -9,10 +9,7 @@ import {
 import { AuthContextProvider } from './src/contexts/AuthContext';
 
 import { Loading } from './src/components/Loading';
-import { SignIn } from './src/screens/SignIn';
-import { New } from './src/screens/New';
-import { Find } from './src/screens/Find';
-import { Pools } from './src/screens/Pools';
+import { Routes } from './src/routes';
 
 import { THEME } from './src/styles/theme';
 
@@ -31,7 +28,7 @@ export default function App() {
           backgroundColor='transparent'
           translucent
         />
-        {!fontsLoaded ? <Loading /> : <Pools />}
+        {!fontsLoaded ? <Loading /> : <Routes />}
       </AuthContextProvider>
     </NativeBaseProvider>
   );
