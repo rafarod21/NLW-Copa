@@ -50,7 +50,7 @@ Seu objetivo é poder realizar palpites dos jogos da copa do mundo junto com seu
   💻 Desktop 💻
 </h3>
 <p align="center">
-  :hammer_and_pick: Em construção
+  <Img src="https://github.com/rafarod21/NLW-Copa/blob/main/git-assets/web-page.png" width=auto height=400>
 </p>
   
 <h3 align="center">
