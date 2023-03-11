@@ -7,7 +7,7 @@
   
   <p align="center">
     <img src="https://img.shields.io/static/v1?label=Status&message=Conclu%C3%ADdo&color=brightgreen&style=flat&labelColor=3E3E3E">
-    <img src="https://img.shields.io/static/v1?message=NLW%2F10-Copa&label=Rocketseat&color=4A357D&style=flat&labelColor=8257E5">
+    <img src="https://img.shields.io/static/v1?message=NLW%2F10-Copa&label=Rocketseat&color=F7DD43&style=flat&labelColor=8257E5">
   </p>
 </p>
 
