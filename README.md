@@ -1,7 +1,7 @@
 <!-- -->
 <p align="center">
   <br>
-    <Img src="https://github.com/rafarod21/NLW-Copa/blob/main/git-assets/logo.svg" />    
+    <Img src="https://github.com/rafarod21/NLW-Copa/blob/main/git-assets/logo.svg" width=auto height=80 />    
   
   <h3 align="center"> Faça sua escolha! :soccer: </h3>
   
