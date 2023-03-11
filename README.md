@@ -31,16 +31,18 @@
 ## Detalhes do projeto :memo:
 
 <p align="justify">
-Este é um projeto desenvolvido na Next Level Week #9 eSports(NLW eSports), evento organizado pela Rocketseat :rocket:.
+Este é um projeto desenvolvido na Next Level Week #10 Copa(NLW-Copa), evento organizado pela Rocketseat :rocket:.
 Tal projeto é composto por backend, frontend web e frontend mobile.
-Seu objetivo é conectar jogadores para que possam jogar seus jogos favoritos juntos.
+Seu objetivo é poder realizar palpites dos jogos da copa do mundo junto com seus amigos.
 </p>
 
 ## Funcionalidades :stars:
 
-✔️ Cadastrar anúncio de jogador em um jogo
+✔️ Login com o a conta Google
 
-✔️ Listar jogadores disponíveis para fazer Duo
+✔️ Criar um bolão
+
+✔️ Participar de um bolão
 
 ## Layout :milky_way:
 
