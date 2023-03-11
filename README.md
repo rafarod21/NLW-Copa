@@ -96,19 +96,19 @@ npm run dev
 cd NLW-eSports/web
 ```
     
-##### Passo 8: Instalando as dependências do frontend
+##### Passo 6: Instalando as dependências do frontend
 ```bash
 npm install
 ```
 
-##### Passo 9: Executando o frontend do projeto
+##### Passo 7: Executando o frontend do projeto
 ```bash
 npm run dev
   
 # O projeto deverá ser iniciado na porta 3000
 ```
 
-##### Passo 10: Vizualizando o projeto
+##### Passo 8: Vizualizando o projeto
 Acesse: http://localhost:3000
 
 ## Tecnologias :books:
